@@ -1,0 +1,5 @@
+../Core/Src/diskio.c:23:9:disk_status	5
+../Core/Src/diskio.c:61:9:disk_initialize	5
+../Core/Src/diskio.c:99:9:disk_read	5
+../Core/Src/diskio.c:149:9:disk_write	5
+../Core/Src/diskio.c:198:9:disk_ioctl	5

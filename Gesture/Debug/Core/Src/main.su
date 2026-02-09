@@ -1,0 +1,13 @@
+../Core/Src/main.c:85:28:_write	16	static
+../Core/Src/main.c:91:16:platform_write	40	static
+../Core/Src/main.c:95:16:platform_read	40	static
+../Core/Src/main.c:99:13:platform_delay	16	static
+../Core/Src/main.c:104:7:calculate_mean	24	static
+../Core/Src/main.c:113:7:calculate_std	40	static
+../Core/Src/main.c:129:9:quantize_float	32	static
+../Core/Src/main.c:137:7:moving_average	24	static
+../Core/Src/main.c:146:6:init_buffer	24	static
+../Core/Src/main.c:156:6:update_buffer	24	static
+../Core/Src/main.c:177:5:main	1144	static
+../Core/Src/main.c:447:6:SystemClock_Config	96	static
+../Core/Src/main.c:501:6:Error_Handler	4	static,ignoring_inline_asm
